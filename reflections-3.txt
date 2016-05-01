@@ -4,5 +4,9 @@ Reflections 3
 
 When would you want to use a remote repository rather than keeping all your work local?
   Always!
-  
-  
+
+
+---
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+  Hawing a working master. Merge only when sure.
